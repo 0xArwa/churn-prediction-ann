@@ -18,7 +18,7 @@ Final model AUC-ROC <br>
 <p align="center">
   <img src="/Imgs/roc1.png" alt="roc_scores">
 </p>
-Full results are discussed in the notebook 
+Full results are discussed in the notebook. 
 
 ## Acknowledgements
 
