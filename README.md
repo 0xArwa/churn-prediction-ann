@@ -4,8 +4,8 @@ This project aims to provide accurate predictions regarding customer churn using
 
 
 ## Used Libraries 📚
-- `numpy`- `pandas`- `matplotlib`- `seaborn`
-- `Scikit-learn`- `TensorFlow`- `Keras` - `optuna`
+- `numpy` - `pandas`- `matplotlib`- `seaborn`
+- `Scikit-learn` - `TensorFlow` - `Keras` - `optuna`
 
 
 ## Run the project 
@@ -15,8 +15,9 @@ The repository includes a Jupyter notebook which you can run on your local machi
 ## Results 
 
 Final model AUC-ROC <br>
-![roc_scores](roc1.png)
-
+<p align="center">
+  <img src="\roc1.png" alt="roc_scores">
+</p>
 Full results are discussed in the notebook 
 
 ## Acknowledgements
