@@ -16,7 +16,7 @@ The repository includes a Jupyter notebook which you can run on your local machi
 
 Final model AUC-ROC <br>
 <p align="center">
-  <img src="\roc1.png" alt="roc_scores">
+  <img src="/Imgs/roc1.png" alt="roc_scores">
 </p>
 Full results are discussed in the notebook 
 
