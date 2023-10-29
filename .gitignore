@@ -1,5 +1,5 @@
 # ignore pickled model
-*.kears
+*.keras
 
 #ignore sclaer
 *.sav
